@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: vehicle_Properties Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: vehicle_Properties
+  m_TableCollectionNameGuidString: c259b3ce98739184e9e26e4e81ded0b3
+  m_Entries:
+  - m_Id: 518398300160
+    m_Key: vehicle_transport_type_Land_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4530791141376
+    m_Key: vehicle_transport_type_Air_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5049551048704
+    m_Key: vehicle_transport_type_Sea_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5437838741504
+    m_Key: vehicle_transport_spacialty_Long_Distance_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5510316314624
+    m_Key: vehicle_transport_spacialty_Short_Distance_Text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5359605744072130562
+  references:
+    version: 2
+    RefIds:
+    - rid: 5359605744072130562
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1693558253958

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7c1f8f668cc8ee47ac75a3f7b6ac5df, type: 3}
+  m_Name: Deerskin_Armor
+  m_EditorClassIdentifier: 
+  _name: Deerskin_Armor
+  description: Dear Skin Armor
+  sprite: {fileID: 21300000, guid: 3e3fafd3c448d684eba3de412e2452a6, type: 3}
+  status: 0
+  Cost: 60
+  type: 0
+  isEquipped: 0
+  isLock: 0
+  defense: 30
+  body: Deerskin_Armor_Chest
+  helmet: Deerskin_Armor_Helmet
+  handL: Deerskin_Armor_Glove_L
+  handR: Deerskin_Armor_Glove_R
+  armL: 
+  armR: 
+  shoulderL: 
+  shoulderR: 
+  upperArmL: 
+  upperArmR: 
+  pants: Deerskin_Armor_Pants
+  shoes: Deerskin_Armor_Shoes

@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: marketItem_Texts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: marketItem_Texts
+  m_TableCollectionNameGuidString: 4de48af9e427fdd43bdbbdb8c8176454
+  m_Entries:
+  - m_Id: 486056022016
+    m_Key: itemButton_Text_Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586656403456
+    m_Key: itemButton_Text_Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1109564477440
+    m_Key: itemButton_Text_Release
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4012362584064
+    m_Key: sword_desc_name_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303790338232320
+    m_Key: sword_desc_attack_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 304028335624192
+    m_Key: sword_desc_price_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363307914645504
+    m_Key: shield_desc_name_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363421840330752
+    m_Key: shield_desc_defense_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363654074748928
+    m_Key: shield_desc_price_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388484119547904
+    m_Key: armor_desc_name_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388556802641920
+    m_Key: armor_desc_defense_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389074111320064
+    m_Key: armor_desc_price_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639772514209792
+    m_Key: 'housing_desc_name_Text
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 639975585632256
+    m_Key: housing_desc_status_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640330625077248
+    m_Key: housing_desc_price_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640728211542016
+    m_Key: transport_desc_name_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640730929451008
+    m_Key: transport_desc_type_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 640732976271360
+    m_Key: transport_desc_price_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 680791473541120
+    m_Key: transport_desc_distace_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4662577958375424
+    m_Key: weaponary_Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4662692542566400
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6347027196993339394
+  references:
+    version: 2
+    RefIds:
+    - rid: 6347027196993339394
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1693313509160

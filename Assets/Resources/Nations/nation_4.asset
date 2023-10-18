@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 738cda8eee23185489e498fefea100e8, type: 3}
+  m_Name: nation_4
+  m_EditorClassIdentifier: 
+  _name: nation_2
+  description: nation_2 Desc
+  sprite: {fileID: 21300000, guid: e404b1a7b57a6a14c8a1035fd2ff4daf, type: 3}
+  status: 0
+  Cost: 0
+  type: 0
+  isEquipped: 0
+  isLock: 0

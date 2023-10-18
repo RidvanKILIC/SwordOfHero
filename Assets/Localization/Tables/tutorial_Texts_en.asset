@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: tutorial_Texts_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 695d2b8326d22ae4885c385b30cd4afb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8043778048
+    m_Localized: So, You want to conqure world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650938306560
+    m_Localized: Okey I will give you a hand.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099091300352
+    m_Localized: First, let's  register you to the gulid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318493286354944
+    m_Localized: You need some equipments right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319473407119360
+    m_Localized: Here, I lend you some money. Let's buy you some equipments.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369409137987584
+    m_Localized: It is all set! You're ready for your first Clash, Good Luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379301156507648
+    m_Localized: You have learned how things work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379712437374976
+    m_Localized: Now, Let's find you a place to stay.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384351094329344
+    m_Localized: So, you settled down.Then  it is  time to improve intelligence.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397545741373440
+    m_Localized: Let me show you how to play this game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397927263653888
+    m_Localized: Just like that!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398178888339456
+    m_Localized: It was just to show you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420960909021184
+    m_Localized: You can use your ring's power by touching the screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421276417150976
+    m_Localized: If you are facing a enemy you can use your spacial power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421669909975040
+    m_Localized: It will speed up your attack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495474291593216
+    m_Localized: Even if you lose, I will reward you handsomely. So let us enjoy
+      !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495481170251776
+    m_Localized: The game is so simple we are gonna try to find the matched cards.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2527173671014400
+    m_Localized: If it is Heal Card you heal yourself, if it is Damage Card you damage
+      the opponent.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

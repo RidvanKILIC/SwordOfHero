@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9bae084015643e49b9b7317b5b3f4a4, type: 3}
+  m_Name: Odysseus
+  m_EditorClassIdentifier: 
+  name: Odysseus
+  description: "Yunan kahraman\u0131, zeki bir stratejist, maceralar\u0131 ve yolculuklar\u0131
+    ile tan\u0131n\u0131r"
+  pattern: {fileID: 21300000, guid: 68b956ae17794a34f8673cdee14abc04, type: 3}
+  cardSprite: {fileID: 21300000, guid: 275ad1fe88669c94e91986b3c85477b6, type: 3}
+  duration: 1
+  attack: 0
+  health: 0
+  rarity: 0
+  type: 2
+  fx: {fileID: 6639343664261346621, guid: a88dc50ce5acc2c4cbee6087dababc06, type: 3}
+  trj: {fileID: 5490620146423689883, guid: 2c804f658c105884dbce7fdb09b6a32d, type: 3}
+  gameObj: {fileID: 0}
+  specialType: 1
+  trjSFX: {fileID: 8300000, guid: 5cef8fb82ee4479448626d30683e9efe, type: 3}
+  fxSFX: {fileID: 8300000, guid: 1b4b3895e7292774a8b344582378e107, type: 3}
+  useSFX: {fileID: 8300000, guid: a4ad9fae9110b15418ecd1971984873e, type: 3}
+  spacialdemonstrationSFX: {fileID: 8300000, guid: 84526fd995a20401fa0c0fccf653c5e2, type: 3}
+  spacialReturnSFX: {fileID: 8300000, guid: 2cb82883501014552993fdb5a327af24, type: 3}
+  destroySFX: {fileID: 8300000, guid: 34b439bf70b80a6409eadecc6be92d68, type: 3}
+  Location: 4
+  StartTime: 0
+  FunctionType: 0

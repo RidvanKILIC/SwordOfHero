@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8976bda0413d13c439951a668dcb056f
+  m_SerializeEntries:
+  - m_GUID: 69050e6928fc01546bb0867efdab04ee
+    m_Address: "Assets/Localization/Tables/u\u0131_Texts Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 882e815ab43b652439db7f95d480cdee
+    m_Address: Assets/Localization/Tables/Warning_texts_table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 8e84f00121dd84d429dc319fb7135d88
+    m_Address: Assets/Localization/Tables/UI_Texts_Main_Screen Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 4de48af9e427fdd43bdbbdb8c8176454
+    m_Address: Assets/Localization/Tables/marketItem_Texts Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 732f8a4922485c1439932f3fbd5858cd
+    m_Address: "Assets/Localization/Tables/\u0130tems/Weapon_Names Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 356a2c2aff9460f49873ea81dcc8c99a
+    m_Address: "Assets/Localization/Tables/\u0130tems/Shield_Names Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 9a32e6b16cdc46946aaed51101c12810
+    m_Address: "Assets/Localization/Tables/\u0130tems/Armor Names Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: f3bad7c63fea1fb41b0d98a494fa3073
+    m_Address: "Assets/Localization/Tables/\u0130tems/Housing_Names Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: cb8cc24929775d541bf48c2a761078d6
+    m_Address: "Assets/Localization/Tables/\u0130tems/Vehicles_Names Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c259b3ce98739184e9e26e4e81ded0b3
+    m_Address: "Assets/Localization/Tables/\u0130tems/\u0130tem_Properties/vehicle_Properties
+      Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: ef9340a73399ef641b931fe5a1d2dd4c
+    m_Address: "Assets/Localization/Tables/\u0130tems/\u0130tem_Properties/housing_Properties
+      Shared Data.asset"
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: f3a67a378afa6a2479c6d12cd5451ec6
+    m_Address: Assets/Localization/Tables/minGameUI_Texts Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: a830f656f97c508418f80478d5a3e03c
+    m_Address: Assets/Localization/Tables/New Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 695d2b8326d22ae4885c385b30cd4afb
+    m_Address: Assets/Localization/Tables/tutorial_Texts Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 52ae881d913b41841adf908e0a76fca7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 80e08526794f272478a80a9015c8540b, type: 2}
+    - {fileID: 11400000, guid: 213a37045335f3b4aa651f2612f4d4f7, type: 2}

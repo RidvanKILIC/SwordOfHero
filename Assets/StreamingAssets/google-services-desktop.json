@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322280808345",
+    "project_id": "sword-of-hero",
+    "storage_bucket": "sword-of-hero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322280808345:android:9f561b3f50657cfe2dbd08",
+        "android_client_info": {
+          "package_name": "com.PhoenixBirdMobile.PbgWorking1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZm_Pop5c11LWYjfihDKW6v_gwAWPANc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

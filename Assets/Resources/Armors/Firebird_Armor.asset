@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7c1f8f668cc8ee47ac75a3f7b6ac5df, type: 3}
+  m_Name: Firebird_Armor
+  m_EditorClassIdentifier: 
+  _name: Firebird_Armor
+  description: Firebird Armor
+  sprite: {fileID: 21300000, guid: 8078b72c23ac2d147a878c6c5c163606, type: 3}
+  status: 1
+  Cost: 100
+  type: 0
+  isEquipped: 1
+  isLock: 0
+  defense: 40
+  body: Firebird_Armor_Chest
+  helmet: Firebird_Armor_Helmet
+  handL: Firebird_Armor_Gloves_L
+  handR: Firebird_Armor_Gloves_R
+  armL: 
+  armR: 
+  shoulderL: Firebird_Armor_Pauld_L
+  shoulderR: Firebird_Armor_Pauld_R
+  upperArmL: 
+  upperArmR: Firebird_Armor_UpperArm_R
+  pants: Firebird_Armor_Pants
+  shoes: Firebird_Armor_Shoes

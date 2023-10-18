@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: "u\u0131_Texts_Start_and_Selection_Scenes Shared Data"
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: "u\u0131_Texts_Start_and_Selection_Scenes"
+  m_TableCollectionNameGuidString: 69050e6928fc01546bb0867efdab04ee
+  m_Entries:
+  - m_Id: 13655756800
+    m_Key: loading_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368985249042432
+    m_Key: pickNation_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 370036287098880
+    m_Key: nation_1_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372994638761984
+    m_Key: nation_2_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391275495968768
+    m_Key: nation_selection_title_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646403654307840
+    m_Key: registration_title_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 648136677806080
+    m_Key: registrationInputField_PlaceHolder_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650110013952000
+    m_Key: registration_submit_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695186220011520
+    m_Key: startTabScreen_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7525672837861376
+    m_Key: backButton_Text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6347027016326053948
+  references:
+    version: 2
+    RefIds:
+    - rid: 6347027016326053948
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1692624059364

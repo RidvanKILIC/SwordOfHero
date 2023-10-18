@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Texts_Main_Screen_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8e84f00121dd84d429dc319fb7135d88, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7997640704
+    m_Localized: HOME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111051689984
+    m_Localized: WEAPONARY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269491523584
+    m_Localized: HOUSINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746165784576
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015943417856
+    m_Localized: CLASH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8504051126272
+    m_Localized: WEAPONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8943043760128
+    m_Localized: SHIELDS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9027701592064
+    m_Localized: ARMORS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459581284306944
+    m_Localized: HOUSINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 461915691307008
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5481791807967232
+    m_Localized: SOUND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5483936477237248
+    m_Localized: MUSIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484075598106624
+    m_Localized: 'LANGUAGE:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484179948195840
+    m_Localized: RESET GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484352216649728
+    m_Localized: ABOUT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484867516256256
+    m_Localized: ENGLISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5486926047105024
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5528907301408768
+    m_Localized: WARNING !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5529610375811072
+    m_Localized: 'All your progress will be removed and this can not be undone.
+
+      ARE
+      YOU SURE ?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531715782201344
+    m_Localized: DELETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531845369417728
+    m_Localized: CANCEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5533502392127488
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5537831756910592
+    m_Localized: 'Unfortunately, you have not enough money. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7239646928064512
+    m_Localized: LEAVE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

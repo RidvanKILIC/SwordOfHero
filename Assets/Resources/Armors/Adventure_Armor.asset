@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7c1f8f668cc8ee47ac75a3f7b6ac5df, type: 3}
+  m_Name: Adventure_Armor
+  m_EditorClassIdentifier: 
+  _name: Adventure_Armor
+  description: Adventurer Armor
+  sprite: {fileID: 21300000, guid: 5beefe6f6c1f5dc4d9b9ac40322d98ce, type: 3}
+  status: 1
+  Cost: 40
+  type: 0
+  isEquipped: 1
+  isLock: 0
+  defense: 20
+  body: Adventure_Armor_Chest
+  helmet: Ninja_Helmet
+  handL: Adventure_Armor_Glove_L
+  handR: Adventure_Armor_Glove_R
+  armL: 
+  armR: 
+  shoulderL: Adventure_Armor_Pauld_L
+  shoulderR: Adventure_Armor_Pauld_R
+  upperArmL: 
+  upperArmR: 
+  pants: Adventure_Armor_Pants
+  shoes: Starweaver_Armor_Shoes

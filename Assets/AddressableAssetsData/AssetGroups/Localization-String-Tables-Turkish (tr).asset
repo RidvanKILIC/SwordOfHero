@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Turkish (tr)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Turkish (tr)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b4bc35b1bce831e4495713064c7e5b1e
+  m_SerializeEntries:
+  - m_GUID: b9320a3b3fd3a47448083960032bd2d4
+    m_Address: "u\u0131_Texts_Start_and_Selection_Scenes_tr"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 3ac05dc6c10261d46bb26431fb3c6487
+    m_Address: Warning_texts_table_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 61832fa007a883a4d96ec6a66bea5d90
+    m_Address: UI_Texts_Main_Screen_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: ceebdfd5c33d0af4ca01f56d132c3b8a
+    m_Address: marketItem_Texts_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 876e143b151dfc642b84e7d2ab13241d
+    m_Address: Weapon_Names_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: da6737338fb615348b8e925034a27dc4
+    m_Address: Shield_Names_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 4c3b486fb16629a4fb80202b09c073c4
+    m_Address: Armor_Names_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 5744a0cbbc2433b4e9faba8f62d04478
+    m_Address: Housing_Names_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 446f0ea3087b4a546bcda290c321c3fd
+    m_Address: Vehicles_Names_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 44627c587030e1247be7c1d09867f4aa
+    m_Address: vehicle_Properties_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 32946230912107642a827a5b1920b5c8
+    m_Address: housing_Properties_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 57ca2c93cc2af2c4d848016ffdd206b0
+    m_Address: minGameUI_Texts_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 2f8aa571946be884baf0f829bcf07193
+    m_Address: Warning_Texts_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  - m_GUID: 06236c6d540c49d4791dd1a49ab4e636
+    m_Address: tutorial_Texts_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 52ae881d913b41841adf908e0a76fca7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 54fcf57db8650964e91842552e7a2394, type: 2}
+    - {fileID: 11400000, guid: 4349975ae764cb64db882b157bac3eb3, type: 2}

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: tutorial_Texts_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 695d2b8326d22ae4885c385b30cd4afb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8043778048
+    m_Localized: "Oo d\xFCnayay\u0131 fethetmek istiyorsun demek."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 650938306560
+    m_Localized: "Tamam sana yard\u0131m edece\u011Fim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1099091300352
+    m_Localized: "\xD6ncelikle seni loncaya kaydedelim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318493286354944
+    m_Localized: "Ekipmana ihtiyac\u0131n var de\u011Fil mi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319473407119360
+    m_Localized: "Sana biraz bor\xE7 verdim. Hadi ekipmanlar\u0131 ku\u015Fanal\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369409137987584
+    m_Localized: "Her \u015Fey haz\u0131r! \u0130lk sava\u015F\u0131na haz\u0131rs\u0131n
+      ba\u015Far\u0131lar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379301156507648
+    m_Localized: "\u0130\u015Flerin nas\u0131l y\xFCr\xFCd\xFC\u011F\xFCn\xFC \xF6\u011Frendin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379712437374976
+    m_Localized: "\u015Eimdi, sana kalacak bir yer bulal\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 384351094329344
+    m_Localized: "Demek yerle\u015Ftin.  O zaman \u015Fimdi zekan\u0131 geli\u015Ftirme
+      zaman\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397545741373440
+    m_Localized: "\u0130zin ver sana bu oyunun nas\u0131l oynando\u011F\u0131n\u0131
+      g\xF6stereyim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397927263653888
+    m_Localized: "\u0130\u015Fte tamda b\xF6yle!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 398178888339456
+    m_Localized: "Sadece sana g\xF6stermek i\xE7indi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420960909021184
+    m_Localized: "Ekrana dokunarak y\xFCz\xFC\u011F\xFCn g\xFCc\xFCn\xFC kullanabilirsin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421276417150976
+    m_Localized: "E\u011Fer bir d\xFC\u015Fmanla kar\u015F\u0131 kar\u015F\u0131yaysan
+      \xF6zel g\xFCc\xFCn\xFC kullanabilirsin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421669909975040
+    m_Localized: "\xD6zel g\xFCc\xFCn atak h\u0131z\u0131n\u0131 artt\u0131racak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495474291593216
+    m_Localized: "Kaybetsen dahi c\xF6mertce \xF6d\xFCllendirileceksin. O y\xFCzden
+      sadece e\u011Flenelim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2495481170251776
+    m_Localized: "Oyun \xE7ok basit e\u015Fle\u015Fen kartlar\u0131 bulmaya \xE7al\u0131\u015Faca\u011F\u0131z."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2527173671014400
+    m_Localized: "E\u011Fer iyile\u015Ftirme kart\u0131ysa kendini iyile\u015Ftirirsin,
+      e\u011Fer hasar kart\u0131ysa rakibe hasar veririsin."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

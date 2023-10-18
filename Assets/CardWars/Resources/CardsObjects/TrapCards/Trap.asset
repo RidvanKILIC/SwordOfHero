@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6508d617807367469e7fa3ccc4a3a22, type: 3}
+  m_Name: Trap
+  m_EditorClassIdentifier: 
+  name: Trap Card
+  description: Skips turn
+  pattern: {fileID: 21300000, guid: ab95e6388df138e4cb0de6bbe6061072, type: 3}
+  cardSprite: {fileID: 21300000, guid: e8e599c9dd044ba4bab887fed57fb4bc, type: 3}
+  cost: 0
+  attack: 0
+  health: 0
+  rarity: 0
+  type: 3

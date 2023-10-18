@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Texts_Main_Screen_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 8e84f00121dd84d429dc319fb7135d88, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7997640704
+    m_Localized: EV
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111051689984
+    m_Localized: "CEPHANEL\u0130K"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269491523584
+    m_Localized: BARINAKLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746165784576
+    m_Localized: AYARLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015943417856
+    m_Localized: "SAVA\u015E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8504051126272
+    m_Localized: SILAHLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8943043760128
+    m_Localized: KALKANLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9027701592064
+    m_Localized: ZIRHLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459581284306944
+    m_Localized: BARINAKLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 461915691307008
+    m_Localized: AYARLAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5481791807967232
+    m_Localized: SES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5483936477237248
+    m_Localized: "M\xDCZ\u0130K"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484075598106624
+    m_Localized: "D\u0130L:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484179948195840
+    m_Localized: OYUNU SIFIRLA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484352216649728
+    m_Localized: HAKKIMIZDA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484867516256256
+    m_Localized: "T\xDCRK\xC7E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5486926047105024
+    m_Localized: "\xC7IK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5528907301408768
+    m_Localized: UYARI !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5529610375811072
+    m_Localized: "Sahip oldu\u011Fun her\u015Fey geri d\xF6nd\xFCr\xFClemeyecek \u015Fekilde
+      silinecek.\nEM\u0130N M\u0130S\u0130N ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531715782201344
+    m_Localized: "S\u0130L"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531845369417728
+    m_Localized: "VAZGE\xC7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5533502392127488
+    m_Localized: TAMAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5537831756910592
+    m_Localized: "Maalesef, yeterince alt\u0131n\u0131n yok."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7239646928064512
+    m_Localized: AYRIL
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

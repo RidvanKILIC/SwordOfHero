@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6508d617807367469e7fa3ccc4a3a22, type: 3}
+  m_Name: Susanoo
+  m_EditorClassIdentifier: 
+  name: Susanoo
+  description: "Japon mitolojisindeki tanr\u0131, f\u0131rt\u0131na, deniz ve sava\u015F\u0131n
+    tanr\u0131s\u0131"
+  pattern: {fileID: 21300000, guid: 68b956ae17794a34f8673cdee14abc04, type: 3}
+  cardSprite: {fileID: 21300000, guid: c77d1340a9a9cee459aa3a57cfd11e26, type: 3}
+  duration: 0
+  attack: 10
+  health: 0
+  rarity: 0
+  type: 0
+  fx: {fileID: 3432958286849152088, guid: 87ee7299dd44ed747af24dbb91bcd33b, type: 3}
+  trj: {fileID: 5916547413795473793, guid: f475a083cc5959041a9987ce8ee443b2, type: 3}
+  gameObj: {fileID: 0}
+  specialType: 0
+  trjSFX: {fileID: 8300000, guid: 674258a055e994b72bbb15a28eb79838, type: 3}
+  fxSFX: {fileID: 8300000, guid: cc6699269b4c1d44ea1e860518b9bb73, type: 3}
+  useSFX: {fileID: 0}
+  spacialdemonstrationSFX: {fileID: 0}
+  spacialReturnSFX: {fileID: 0}
+  destroySFX: {fileID: 0}
+  Location: 0
+  StartTime: 0
+  FunctionType: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8e902934f862884781777952e37ba9b, type: 3}
+  m_Name: SmallEnemyStrong
+  m_EditorClassIdentifier: 
+  _name: minion
+  avatarSprite: {fileID: 0}
+  health: 40
+  dropTopGold: 15
+  dropBottomGold: 12
+  dropTopGem: 3
+  dropBottomGem: 2
+  attack: 8
+  dropTopExp: 0
+  dropBottomExp: 5
+  shield: 0
+  isDead: 0
+  arenaEnterDureation: 2
+  Attackfx: {fileID: 2643140812552199620, guid: fc51ba991d01b844d813d2cff5433d45, type: 3}
+  DamageFx: {fileID: 0}
+  enemyType: 0
+  target: {fileID: 0}
+  attackSFX: {fileID: 8300000, guid: fd2cf86eddcd9d54d97ffa823094a527, type: 3}
+  hitSFX: {fileID: 8300000, guid: e243e540a17f3724aa15a655792945bd, type: 3}
+  stepsSFX: {fileID: 8300000, guid: 27515e2d3df8d0b4da41f088d26786b6, type: 3}
+  deathSFX: {fileID: 0}

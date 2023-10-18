@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Warning_Texts_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: a830f656f97c508418f80478d5a3e03c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 95100751872
+    m_Localized: "Silah\u0131n olmadan sava\u015Famazs\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287732551680
+    m_Localized: "Bu b\xF6lgede d\xFC\u015Fman yok!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442682724352
+    m_Localized: "Bu b\xF6lgeyi hen\xFCz a\xE7mad\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14115086159872
+    m_Localized: "E\u011Fer  oyunu ederseniz hi\xE7 bir \xF6d\xFCl alacamayacaks\u0131n!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

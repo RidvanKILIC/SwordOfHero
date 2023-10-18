@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72b54a9a6faf67b41b2f5d99eee5eb65, type: 3}
+  m_Name: Hydarsshield
+  m_EditorClassIdentifier: 
+  _name: Hydarsshield
+  description: Hydarsshield
+  sprite: {fileID: 21300000, guid: ae95d3e0841326e42a3c78eb11d8bf4f, type: 3}
+  status: 0
+  Cost: 110
+  type: 0
+  isEquipped: 0
+  isLock: 0
+  defense: 40

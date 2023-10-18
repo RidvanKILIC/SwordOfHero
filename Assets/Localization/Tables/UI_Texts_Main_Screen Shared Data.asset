@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Texts_Main_Screen Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_Texts_Main_Screen
+  m_TableCollectionNameGuidString: 8e84f00121dd84d429dc319fb7135d88
+  m_Entries:
+  - m_Id: 7997640704
+    m_Key: home_button_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111051689984
+    m_Key: weaponary_button_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269491523584
+    m_Key: housing_button_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746165784576
+    m_Key: transport_button_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015943417856
+    m_Key: map_button_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8504051126272
+    m_Key: weaponary_title_Text_Swords
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8943043760128
+    m_Key: weaponary_title_Text_Shields
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9027701592064
+    m_Key: weaponary_title_Text_Armors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 459581284306944
+    m_Key: main_screen_Title_Housings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 461915691307008
+    m_Key: 'main_screen_Title_Transport
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5481791807967232
+    m_Key: Sound_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5483936477237248
+    m_Key: Music_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484075598106624
+    m_Key: Language_Label_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484179948195840
+    m_Key: Reset_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484352216649728
+    m_Key: About_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5484867516256256
+    m_Key: Language_Tetx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5486926047105024
+    m_Key: Quit_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5528907301408768
+    m_Key: Warning_Delete_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5529610375811072
+    m_Key: Warning_Delete_Body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531715782201344
+    m_Key: Warning_Delete_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5531845369417728
+    m_Key: Warning_Cancel_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5533502392127488
+    m_Key: Warning_Ok_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5537831756910592
+    m_Key: Warning_Gold_Body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7239646928064512
+    m_Key: Warning_Leave_Button
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6347027192568348674
+  references:
+    version: 2
+    RefIds:
+    - rid: 6347027192568348674
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1693301329510

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: vehicle_Properties
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c259b3ce98739184e9e26e4e81ded0b3, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: e1bde5368ccd8904db1a2d079839492b, type: 2}
+  - {fileID: 11400000, guid: 44627c587030e1247be7c1d09867f4aa, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
