@@ -1,22 +1,8 @@
-{
-    "name": "Creative Commons Attribution-NonCommercial-NoDerivs (CC-BY-NC-ND)",
-    "priority": 1,
-    "available": true,
-    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
-    "description": "The most restrictive creative commons license. This only allows people to download and share your work for no commercial gain and for no other purposes.",
-    "categories": [
-        "public",
-        "data",
-        "by",
-        "nc",
-        "nd"
-    ],
-    "labels": [
-        "public",
-        "cc",
-        "by",
-        "nc",
-        "nd"
-    ],
-    "key": "cc-by-nc-nd"
-}
+Creative Commons Attribution-NonCommercial-NoDerivs (CC-BY-NC-ND)
+
+Attribution - You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+NonCommercial - You may not use the material for commercial purposes .
+NoDerivatives - If you remix, transform, or build upon the material, you may not distribute the modified material.
+No additional restrictions - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+http://creativecommons.org/licenses/by-nc-nd/4.0/
